@@ -1,0 +1,10 @@
+{
+  "name": "gra1/metapackage",
+  "version": "1.0.0",
+  "type": "metapackage",
+  "require": {
+    "gra1/module-test": "1.0.0"
+  },
+  "description": "test Metapakage"
+}
+
